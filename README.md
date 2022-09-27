@@ -1,15 +1,13 @@
 # prueba-cdio
-## Proyecto de semaforización
+## Proyecto de Encicopledia de buenas prácticas agrícolas
 
 Este proyecto sirve para:
 
-* Visulización de variables
-* Control de tráfico
+* Enseñar a las personas como cultivar mejor
+* Obtener diplomas en la medida que aprendes
 
 ## Instalación
 
 [Ir a Google](www.google.com)
-
-[Video](https://youtu.be/BCMMIrGpfQc)
 
 [![Blinking LEDs](http://img.youtube.com/vi/BCMMIrGpfQc/0.jpg)](https://youtu.be/BCMMIrGpfQc)
