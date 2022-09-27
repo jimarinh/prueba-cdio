@@ -1,0 +1,85 @@
+.header {
+  background: #008036 url("wikibanana_banana.png") no-repeat left top;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.bodylogin {
+  background-color: #7ed956;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.footer {
+  background-color: #008036;
+  padding: 10px;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: white;
+}
+	
+.progress {
+  background-color: #fcf164;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  color = #808080;
+  vertical-align: middle;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
